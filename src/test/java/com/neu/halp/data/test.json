@@ -1,0 +1,30 @@
+{
+  "animals": [
+    {
+      "name": "Robert",
+      "age": 300,
+      "type": "Dog",
+      "beenVaccinated": false,
+      "picture": "https://www.google.com"
+    },
+    {
+      "name": "Dogbert",
+      "age": 2,
+      "type": "Dog",
+      "beenVaccinated": true,
+      "picture": "https://www.google.com"
+    }
+  ],
+  "clinicians": [
+    {
+      "name": "Mr. Robertson",
+      "specialties": ["Dogs", "Gorillas"],
+      "schedule": ["M", "W", "F"]
+    },
+    {
+      "name": "Mr. Bobertson",
+      "specialties": ["Xray"],
+      "schedule": ["F", "Sa", "Su"]
+    }
+  ]
+}
